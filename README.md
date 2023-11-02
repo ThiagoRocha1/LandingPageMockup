@@ -19,4 +19,5 @@ O LandingPageMockup é um agregador de links para usar como cartão de visitas o
 Você pode visualizar o layout do projeto através <a href="https://www.figma.com/community/file/1187422022288947321">DESSE LINK</a>. É necessário ter conta no Figma para acessá-lo.
 
 📝 Licença
+
 Esse projeto está sob a licença MIT.
