@@ -8,7 +8,7 @@ function toggleMode() {
   if (html.classList.contains("light")) {
     img.setAttribute("src","./assets/avatar-light.png");
     img.setAttribute(
-      "akt",
+      "alt",
       "foto de thiago rocha utilizando camisa preta, sem oculos  e fundo de um quarto."
     )
   } else {
